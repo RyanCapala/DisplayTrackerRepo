@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Oakley Vault</string>
+    <string name="action_settings">Created By</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="location_activity_title">Optics Life</string>
+
+    <string name="username_hint">Username</string>
+    <string name="user_deleted">User Deleted</string>
+    <string name="password_hint">Pin</string>
+    <string name="login_btn">Login</string>
+    <string name="register_tv_name">Register Here</string>
+    <string name="register_btn">Register</string>
+    <string name="conf_password_hint">Confirm Pin</string>
+    <string name="error_message_name">Enter Username</string>
+    <string name="error_message_password">Enter Pin</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_password_match">Pin Does Not Match!</string>
+    <string name="error_valid_username_password">Wrong Username or Pin</string>
+    <string name="error_user_exists">Username Already Exists</string>
+    <string name="text_title">My Awesome App</string>
+    <string name="title_register_page">Register User</string>
+    <string name="title_login_page">User Login</string>
+
+    <string-array name="shelf_location">
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+        <item>S4</item>
+        <item>S5</item>
+        <item>TL1</item>
+        <item>TL2</item>
+        <item>TL3</item>
+        <item>TL4</item>
+        <item>TR1</item>
+        <item>TR2</item>
+        <item>TR3</item>
+        <item>TR4</item>
+        <item>BL1</item>
+        <item>BL2</item>
+        <item>BL3</item>
+        <item>BL4</item>
+        <item>BR1</item>
+        <item>BR2</item>
+        <item>BR3</item>
+        <item>BR4</item>
+    </string-array>
+
+    <string-array name="s1tos5_shelf_location">
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+        <item>S4</item>
+        <item>S5</item>
+    </string-array>
+
+    <string-array name="shelf_location_lcs">
+        <item>TL1</item>
+        <item>TL2</item>
+        <item>TL3</item>
+        <item>TL4</item>
+        <item>TR1</item>
+        <item>TR2</item>
+        <item>TR3</item>
+        <item>TR4</item>
+        <item>BL1</item>
+        <item>BL2</item>
+        <item>BL3</item>
+        <item>BL4</item>
+        <item>BR1</item>
+        <item>BR2</item>
+        <item>BR3</item>
+        <item>BR4</item>
+    </string-array>
+
+    <string-array name="shelf_name">
+        <item>**</item>
+        <item>TL</item>
+        <item>TR</item>
+        <item>BL</item>
+        <item>BR</item>
+    </string-array>
+
+
+    <string-array name="location_array">
+        <item>RDW1</item>
+        <item>RDW2</item>
+        <item>RDW3</item>
+        <item>RC1</item>
+        <item>RC2</item>
+        <item>RC3</item>
+        <item>LDW1</item>
+        <item>LDW2</item>
+        <item>LDW3</item>
+        <item>LC1</item>
+        <item>LC2</item>
+        <item>LC3</item>
+        <item>TOWER</item>
+        <item>PEDESTAL</item>
+        <item>WATCH COUNTER</item>
+        <item>SALE WALL</item>
+        <item>LIFESTYLE WALL</item>
+        <item>CUSTOM WALL</item>
+        <item>GOGGLES</item>
+        <item>** SOLD **</item>
+        <item>** MISSING **</item>
+    </string-array>
+
+    <string name="title_activity_login">Sign in</string>
+    <string name="error_admin_pin">Pin Code Invalid!</string>
+    <string name="add_user_btn">Register User</string>
+    <string name="dlt_user_btn">Delete User</string>
+    <string name="title_create_admin">Create Admin</string>
+    <string name="create_btn">Create</string>
+    <string name="action_sign_out">Logout</string>
+    <string name="admin_name">Admin Name</string>
+    <string name="reset_admin_pin">Reset Admin Pin</string>
+    <string name="title_reset_admin">Reset Admin</string>
+    <string name="reset_btn">Reset</string>
+    <string name="cancel">Cancel</string>
+    <string name="create_admin">Create New Admin</string>
+    <string name="search">Search</string>
+    <string name="search_eyewear">Search Eye Wear</string>
+    <string name="clear">Clear</string>
+    <string name="enter_model_number">Enter Model# i.e. OO1234-12</string>
+
+
+</resources>
